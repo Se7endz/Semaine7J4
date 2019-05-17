@@ -15,6 +15,7 @@ Dans le fichier index.html vous aurez la balise ci-aprés :
 
 Je vous invite a remplacer le "#" par le chiffre correspondant au script
 que vous voulez lancer.
+Ensuite vous lancez votre fichier index.html par votre navigateur et enjoy dans la console.
 
 Sinon voici les 5 liens :
  - script/script_1.js
