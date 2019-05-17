@@ -64,7 +64,7 @@ console.log(booksRented[booksRented.length - 1].title)
 console.log("Quel est livre le moins emprunté ?")
 
 // On affiche le titre du premier objet de l'array
-console.log(booksByRental[0].title)
+console.log(booksRented[0].title)
 
 
 
@@ -78,7 +78,7 @@ let bookId = books.find(book => {
  return book.id === 873495
 })
 
-console.log(bookById.title)
+console.log(bookId.title)
 
 
 // Numero 4 : Supprime le livre avec l'ID: 133712 
